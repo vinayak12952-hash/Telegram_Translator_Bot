@@ -323,7 +323,6 @@ This project was developed to practise and apply:
 
 No license has been specified yet.
 
-If you publish this project on GitHub, consider selecting an appropriate open-source license after reviewing the licenses and terms applicable to your dependencies.
 
 ## 👨‍💻 Author
 
