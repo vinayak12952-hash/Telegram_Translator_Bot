@@ -36,8 +36,6 @@ A_Translator_Ecosystem/
 └── README.md
 ```
 
-**Note:** The filenames above are illustrative. Use the actual filenames in your project if they differ.
-
 ### File Descriptions
 
 #### 1. `Telegram_Bot.py`
