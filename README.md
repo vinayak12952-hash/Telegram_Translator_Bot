@@ -32,7 +32,7 @@ A_Translator_Ecosystem/
 ├── Text_Check.py
 ├── Translator_Engine.py
 ├── download_model.py
-├── check_model.py
+├── Check.py
 └── README.md
 ```
 
