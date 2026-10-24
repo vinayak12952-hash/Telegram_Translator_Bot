@@ -183,8 +183,6 @@ Run the bot's main Python file:
 python Telegram_Bot.py
 ```
 
-Replace `Telegram_Bot.py` with the actual filename of your bot script if necessary.
-
 When the bot starts successfully, the terminal should display a message indicating that the bot is running.
 
 ## 💬 How to Use
