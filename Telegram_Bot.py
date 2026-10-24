@@ -2,7 +2,7 @@ import telebot
 from Text_Check import translate
 
 
-TOKEN = "8983458561:AAEi8gRpx3Ov69xzS78Dz58L5qR19dzXLbo"
+TOKEN = "Paste your API key here"
 
 bot = telebot.TeleBot(TOKEN)
 
